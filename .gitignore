@@ -1,0 +1,10 @@
+*.suo
+*.user
+*.sln.dovstates
+
+*.vc.db
+*.opendb
+*.sdf
+
+Debug/
+Release/
