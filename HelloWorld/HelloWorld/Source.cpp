@@ -7,9 +7,13 @@ int main()
 
 	cout << "こんにちは\n";
 
+	cout << "こんばんは\n";
+
 	int flag;
 	cout << "終了するには打ち込んでね\n";
 	cin >> flag;
+
+
 
 	return 0;
 }
