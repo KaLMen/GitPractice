@@ -5,6 +5,7 @@
 *.vc.db
 *.opendb
 *.sdf
+*ipch
 
 Debug/
 Release/
